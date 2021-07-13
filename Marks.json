@@ -4,12 +4,14 @@
 
 			"Serial_Num": "15/07/2021",
 			"Event_Name": "Event 1",
+			"Event_Category": "Dance Sessions",
 			"Event_Link": "https://www.google.com",
 			"Host_Name": "XYZ"
 
 		}, {
 			"Serial_Num": "10/06/2020",
 			"Event_Name": "Event 2",
+			"Event_Category": "Yoga Sessions",
 			"Event_Link": "https://www.google.com",
 			"Host_Name": "XYZ"
 
@@ -18,6 +20,7 @@
 		{
 			"Serial_Num": "20/04/2020",
 			"Event_Name": "Event 3",
+			"Event_Category": "Dance Sessions",
 			"Event_Link": "https://www.google.com",
 			"Host_Name": "XYZ"
 
@@ -26,6 +29,52 @@
 		{
 			"Serial_Num": "01/03/2020",
 			"Event_Name": "Event 4",
+			"Event_Category": "Yoga Sessions",
+			"Event_Link": "https://www.google.com",
+			"Host_Name": "XYZ"
+
+		},
+		
+				{
+			"Serial_Num": "01/01/2020",
+			"Event_Name": "Event 5",
+			"Event_Category": "Walk Challenge",
+			"Event_Link": "https://www.google.com",
+			"Host_Name": "XYZ"
+
+		},
+		
+				{
+			"Serial_Num": "01/03/2019",
+			"Event_Name": "Event 6",
+			"Event_Category": "Dance Sessions",
+			"Event_Link": "https://www.google.com",
+			"Host_Name": "XYZ"
+
+		},
+		
+				{
+			"Serial_Num": "01/03/2018",
+			"Event_Name": "Event 7",
+			"Event_Category": "Walk Challenge",
+			"Event_Link": "https://www.google.com",
+			"Host_Name": "XYZ"
+
+		},
+		
+				{
+			"Serial_Num": "01/03/2017",
+			"Event_Name": "Event 8",
+			"Event_Category": "Walk Challenge",
+			"Event_Link": "https://www.google.com",
+			"Host_Name": "XYZ"
+
+		},
+		
+				{
+			"Serial_Num": "01/03/2016",
+			"Event_Name": "Event 9",
+			"Event_Category": "Walk Challenge",
 			"Event_Link": "https://www.google.com",
 			"Host_Name": "XYZ"
 
@@ -37,12 +86,14 @@
 
 			"Serial_Num": "15/07/2021",
 			"Event_Name": "Event 1",
+			"Event_Category": "Demo Sessions",
 			"Event_Link": "https://www.google.com",
 			"Host_Name": "XYZ"
 
 		}, {
 			"Serial_Num": "10/06/2020",
 			"Event_Name": "Event 2",
+			"Event_Category": "Innovative Challenge",
 			"Event_Link": "https://www.google.com",
 			"Host_Name": "XYZ"
 
@@ -51,29 +102,56 @@
 		{
 			"Serial_Num": "20/04/2020",
 			"Event_Name": "Event 3",
+			"Event_Category": "Online Learning Announcement",
 			"Event_Link": "https://www.google.com",
 			"Host_Name": "XYZ"
 
 		},
 
 		{
-			"Serial_Num": "01/04/2020",
+			"Serial_Num": "01/03/2020",
 			"Event_Name": "Event 4",
+			"Event_Category": "Demo Sessions",
 			"Event_Link": "https://www.google.com",
 			"Host_Name": "XYZ"
 
-		}, {
-			"Serial_Num": "29/03/2020",
+		},
+		
+				{
+			"Serial_Num": "01/01/2020",
 			"Event_Name": "Event 5",
+			"Event_Category": "Online Learning Announcement",
 			"Event_Link": "https://www.google.com",
 			"Host_Name": "XYZ"
 
-		}, {
-			"Serial_Num": "23/03/2020",
+		},
+		
+				{
+			"Serial_Num": "01/03/2019",
 			"Event_Name": "Event 6",
+			"Event_Category": "Demo Sessions",
 			"Event_Link": "https://www.google.com",
 			"Host_Name": "XYZ"
 
+		},
+		
+				{
+			"Serial_Num": "01/03/2018",
+			"Event_Name": "Event 7",
+			"Event_Category": "Online Learning Announcement",
+			"Event_Link": "https://www.google.com",
+			"Host_Name": "XYZ"
+
+		},
+		
+				{
+			"Serial_Num": "01/03/2017",
+			"Event_Name": "Event 8",
+			"Event_Category": "Demo Sessions",
+			"Event_Link": "https://www.google.com",
+			"Host_Name": "XYZ"
+
+		
 		}
 
 	],
@@ -81,18 +159,29 @@
 	"Marks3": [{
 			"Serial_Num": "15/07/2021",
 			"Event_Name": "Event 1",
+			"Event_Category": "Online Games",
 			"Event_Link": "https://www.google.com",
 			"Host_Name": "XYZ"
 
 		}, {
 			"Serial_Num": "20/06/2020",
 			"Event_Name": "Event 2",
+				"Event_Category": "Online Games",
 			"Event_Link": "https://www.google.com",
 			"Host_Name": "XYZ"
 
 		}, {
-			"Serial_Num": "02/03/2021",
+			"Serial_Num": "02/03/2020",
 			"Event_Name": "Event 3",
+				"Event_Category": "R&R",
+			"Event_Link": "https://www.google.com",
+			"Host_Name": "XYZ"
+
+		},
+		{
+			"Serial_Num": "02/03/2019",
+			"Event_Name": "Event 4",
+				"Event_Category": "Online Games",
 			"Event_Link": "https://www.google.com",
 			"Host_Name": "XYZ"
 
@@ -100,9 +189,24 @@
 
 	],
 
-	"Marks4": [{
+	"Marks4":  [{
 			"Serial_Num": "15/07/2021",
 			"Event_Name": "Event 1",
+				"Event_Category": "Online Classes",
+			"Event_Link": "https://www.google.com",
+			"Host_Name": "XYZ"
+
+		}, {
+			"Serial_Num": "20/06/2020",
+			"Event_Name": "Event 2",
+				"Event_Category": "Goodies Distribution",
+			"Event_Link": "https://www.google.com",
+			"Host_Name": "XYZ"
+
+		}, {
+			"Serial_Num": "02/03/2020",
+			"Event_Name": "Event 3",
+				"Event_Category": "Online Classes",
 			"Event_Link": "https://www.google.com",
 			"Host_Name": "XYZ"
 
@@ -111,36 +215,336 @@
 	],
 
 	"Marks5": [{
+
 			"Serial_Num": "15/07/2021",
 			"Event_Name": "Event 1",
+				"Event_Category": "Coffee Corner",
 			"Event_Link": "https://www.google.com",
 			"Host_Name": "XYZ"
 
 		}, {
-			"Serial_Num": "20/06/2020",
+			"Serial_Num": "10/06/2020",
 			"Event_Name": "Event 2",
+				"Event_Category": "Buzz shot video",
+			"Event_Link": "https://www.google.com",
+			"Host_Name": "XYZ"
+
+		},
+
+		{
+			"Serial_Num": "20/04/2020",
+			"Event_Name": "Event 3",
+				"Event_Category": "News Letter",
+			"Event_Link": "https://www.google.com",
+			"Host_Name": "XYZ"
+
+		},
+
+		{
+			"Serial_Num": "01/03/2020",
+			"Event_Name": "Event 4",
+				"Event_Category": "Buzz shot video",
+			"Event_Link": "https://www.google.com",
+			"Host_Name": "XYZ"
+
+		},
+		
+				{
+			"Serial_Num": "01/01/2020",
+			"Event_Name": "Event 5",
+				"Event_Category": "Coffee Corner",
+			"Event_Link": "https://www.google.com",
+			"Host_Name": "XYZ"
+
+		},
+		
+				{
+			"Serial_Num": "01/03/2019",
+			"Event_Name": "Event 6",
+				"Event_Category": "Buzz shot video",
+			"Event_Link": "https://www.google.com",
+			"Host_Name": "XYZ"
+
+		},
+		
+				{
+			"Serial_Num": "01/03/2018",
+			"Event_Name": "Event 7",
+				"Event_Category": "News Letter",
 			"Event_Link": "https://www.google.com",
 			"Host_Name": "XYZ"
 
 		}
 
 	],
+	
+		"Home": [{
+			
+			"Serial_Num": "15/07/2021",
+			"Event_Name": "Event 1",
+			"Event_Category": "Dance Sessions",
+			"Event_Link": "https://www.google.com",
+			"Host_Name": "XYZ"
 
-	"items": [{
-		"Department": "R & D",
-		"EmployeeCount": "20"
-	}, {
-		"Department": "Syngenta",
-		"EmployeeCount": "30"
-	}, {
-		"Department": "Volvo",
-		"EmployeeCount": "35"
-	}, {
-		"Department": "NIKE",
-		"EmployeeCount": "60"
-	}, {
-		"Department": "ADIDAS",
-		"EmployeeCount": "70"
-	}]
+		}, {
+			"Serial_Num": "10/06/2020",
+			"Event_Name": "Event 2",
+			"Event_Category": "Yoga Sessions",
+			"Event_Link": "https://www.google.com",
+			"Host_Name": "XYZ"
+
+		},
+
+		{
+			"Serial_Num": "20/04/2020",
+			"Event_Name": "Event 3",
+			"Event_Category": "Dance Sessions",
+			"Event_Link": "https://www.google.com",
+			"Host_Name": "XYZ"
+
+		},
+
+		{
+			"Serial_Num": "01/03/2020",
+			"Event_Name": "Event 4",
+			"Event_Category": "Yoga Sessions",
+			"Event_Link": "https://www.google.com",
+			"Host_Name": "XYZ"
+
+		},
+		
+				{
+			"Serial_Num": "01/01/2020",
+			"Event_Name": "Event 5",
+			"Event_Category": "Walk Challenge",
+			"Event_Link": "https://www.google.com",
+			"Host_Name": "XYZ"
+
+		},
+		
+				{
+			"Serial_Num": "01/03/2019",
+			"Event_Name": "Event 6",
+			"Event_Category": "Dance Sessions",
+			"Event_Link": "https://www.google.com",
+			"Host_Name": "XYZ"
+
+		},
+		
+				{
+			"Serial_Num": "01/03/2018",
+			"Event_Name": "Event 7",
+			"Event_Category": "Walk Challenge",
+			"Event_Link": "https://www.google.com",
+			"Host_Name": "XYZ"
+
+		},
+		
+				{
+			"Serial_Num": "01/03/2017",
+			"Event_Name": "Event 8",
+			"Event_Category": "Walk Challenge",
+			"Event_Link": "https://www.google.com",
+			"Host_Name": "XYZ"
+
+		},
+		
+				{
+			"Serial_Num": "01/03/2016",
+			"Event_Name": "Event 9",
+			"Event_Category": "Walk Challenge",
+			"Event_Link": "https://www.google.com",
+			"Host_Name": "XYZ"
+
+		},{
+		
+			"Serial_Num": "15/07/2021",
+			"Event_Name": "Event 1",
+			"Event_Category": "Demo Sessions",
+			"Event_Link": "https://www.google.com",
+			"Host_Name": "XYZ"
+
+		}, {
+			"Serial_Num": "10/06/2020",
+			"Event_Name": "Event 2",
+			"Event_Category": "Innovative Challenge",
+			"Event_Link": "https://www.google.com",
+			"Host_Name": "XYZ"
+
+		},
+
+		{
+			"Serial_Num": "20/04/2020",
+			"Event_Name": "Event 3",
+			"Event_Category": "Online Learning Announcement",
+			"Event_Link": "https://www.google.com",
+			"Host_Name": "XYZ"
+
+		},
+
+		{
+			"Serial_Num": "01/03/2020",
+			"Event_Name": "Event 4",
+			"Event_Category": "Demo Sessions",
+			"Event_Link": "https://www.google.com",
+			"Host_Name": "XYZ"
+
+		},
+		
+				{
+			"Serial_Num": "01/01/2020",
+			"Event_Name": "Event 5",
+			"Event_Category": "Online Learning Announcement",
+			"Event_Link": "https://www.google.com",
+			"Host_Name": "XYZ"
+
+		},
+		
+				{
+			"Serial_Num": "01/03/2019",
+			"Event_Name": "Event 6",
+			"Event_Category": "Demo Sessions",
+			"Event_Link": "https://www.google.com",
+			"Host_Name": "XYZ"
+
+		},
+		
+				{
+			"Serial_Num": "01/03/2018",
+			"Event_Name": "Event 7",
+			"Event_Category": "Online Learning Announcement",
+			"Event_Link": "https://www.google.com",
+			"Host_Name": "XYZ"
+
+		},
+		
+				{
+			"Serial_Num": "01/03/2017",
+			"Event_Name": "Event 8",
+			"Event_Category": "Demo Sessions",
+			"Event_Link": "https://www.google.com",
+			"Host_Name": "XYZ"
+		},
+		
+{
+			"Serial_Num": "15/07/2021",
+			"Event_Name": "Event 1",
+			"Event_Category": "Online Games",
+			"Event_Link": "https://www.google.com",
+			"Host_Name": "XYZ"
+
+		}, {
+			"Serial_Num": "20/06/2020",
+			"Event_Name": "Event 2",
+				"Event_Category": "Online Games",
+			"Event_Link": "https://www.google.com",
+			"Host_Name": "XYZ"
+
+		}, {
+			"Serial_Num": "02/03/2020",
+			"Event_Name": "Event 3",
+				"Event_Category": "R&R",
+			"Event_Link": "https://www.google.com",
+			"Host_Name": "XYZ"
+
+		},
+		{
+			"Serial_Num": "02/03/2019",
+			"Event_Name": "Event 4",
+				"Event_Category": "Online Games",
+			"Event_Link": "https://www.google.com",
+			"Host_Name": "XYZ"
+
+		},
+		
+		{
+			"Serial_Num": "15/07/2021",
+			"Event_Name": "Event 1",
+				"Event_Category": "Online Classes",
+			"Event_Link": "https://www.google.com",
+			"Host_Name": "XYZ"
+
+		}, {
+			"Serial_Num": "20/06/2020",
+			"Event_Name": "Event 2",
+				"Event_Category": "Goodies Distribution",
+			"Event_Link": "https://www.google.com",
+			"Host_Name": "XYZ"
+
+		}, {
+			"Serial_Num": "02/03/2020",
+			"Event_Name": "Event 3",
+				"Event_Category": "Online Classes",
+			"Event_Link": "https://www.google.com",
+			"Host_Name": "XYZ"
+
+		},
+	{
+
+			"Serial_Num": "15/07/2021",
+			"Event_Name": "Event 1",
+				"Event_Category": "Coffee Corner",
+			"Event_Link": "https://www.google.com",
+			"Host_Name": "XYZ"
+
+		}, {
+			"Serial_Num": "10/06/2020",
+			"Event_Name": "Event 2",
+				"Event_Category": "Buzz shot video",
+			"Event_Link": "https://www.google.com",
+			"Host_Name": "XYZ"
+
+		},
+
+		{
+			"Serial_Num": "20/04/2020",
+			"Event_Name": "Event 3",
+				"Event_Category": "News Letter",
+			"Event_Link": "https://www.google.com",
+			"Host_Name": "XYZ"
+
+		},
+
+		{
+			"Serial_Num": "01/03/2020",
+			"Event_Name": "Event 4",
+				"Event_Category": "Buzz shot video",
+			"Event_Link": "https://www.google.com",
+			"Host_Name": "XYZ"
+
+		},
+		
+				{
+			"Serial_Num": "01/01/2020",
+			"Event_Name": "Event 5",
+				"Event_Category": "Coffee Corner",
+			"Event_Link": "https://www.google.com",
+			"Host_Name": "XYZ"
+
+		},
+		
+				{
+			"Serial_Num": "01/03/2019",
+			"Event_Name": "Event 6",
+				"Event_Category": "Buzz shot video",
+			"Event_Link": "https://www.google.com",
+			"Host_Name": "XYZ"
+
+		},
+		
+				{
+			"Serial_Num": "01/03/2018",
+			"Event_Name": "Event 7",
+				"Event_Category": "News Letter",
+			"Event_Link": "https://www.google.com",
+			"Host_Name": "XYZ"
+
+		}	
+		
+			
+			
+		]
+
+
 
 }
