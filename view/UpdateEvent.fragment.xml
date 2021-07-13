@@ -12,18 +12,18 @@
 				<DatePicker id="DP2" value="2014-03-26" valueFormat="yyyy-MM-dd" displayFormat="long"/>
 				<Text text="Event Name"/>
 				<Input id="nameInput" placeholder="Enter event name"/>
+				<Text text="Event Category"/>
+				<Input id="Category" placeholder="Enter event Category"/>
 				<Text text="Event Link"/>
-				<Input id="Link"  placeholder="Enter event link"/>
-					<Text text="Host Name"/>
-				<Input id="host"  placeholder="Enter event link"/>
+				<Input id="Link" placeholder="Enter event link"/>
+				<Text text="Host Name"/>
+				<Input id="host" placeholder="Enter event link"/>
 			</l:VerticalLayout>
 		</content>
-		
 		<beginButton>
-				<Button text="Save" press=".onSubmit"/>
+			<Button text="Save" press=".onSubmit"/>
 		</beginButton>
 		<endButton>
-		
 			<Button text="Close" press="onClose"/>
 		</endButton>
 	</Dialog>
